@@ -1,0 +1,14 @@
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/bin/Debug/net9.0/Desafio1
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/bin/Debug/net9.0/Desafio1.deps.json
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/bin/Debug/net9.0/Desafio1.runtimeconfig.json
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/bin/Debug/net9.0/Desafio1.dll
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/bin/Debug/net9.0/Desafio1.pdb
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.AssemblyInfoInputs.cache
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.AssemblyInfo.cs
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.csproj.CoreCompileInputs.cache
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.dll
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/refint/Desafio1.dll
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.pdb
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/Desafio1.genruntimeconfig.cache
+/home/joaonaif/Documentos/Rocketseat/C#/Desafio1/Desafio1/obj/Debug/net9.0/ref/Desafio1.dll
